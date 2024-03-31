@@ -22,6 +22,7 @@
 
 - [Stardew-AutoAttack](https://github.com/harshlele/Stardew-AutoAttack) - A Stardew Valley auto-attack mod - **5000+ downloads**
 - [ColorPaletteAndroid](https://github.com/harshlele/ColorPaletteAndroid) - A react native Android app that generates a color palette from an image. I implemented K-Means clustering from scratch (in Java) for this app.
+- [vue-radial-bar-graph](https://github.com/harshlele/vue-radial-bar-graph) - A custom VueJS radial bar graph component, using D3.js
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
