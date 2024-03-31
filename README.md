@@ -18,6 +18,11 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+### Projects I'm proud of:
+
+- [Stardew-AutoAttack](https://github.com/harshlele/Stardew-AutoAttack) - A Stardew Valley auto-attack mod - **5000+ downloads**
+- [ColorPaletteAndroid](https://github.com/harshlele/ColorPaletteAndroid) - A react native Android app that generates a color palette from an image. I implemented K-Means clustering from scratch (in Java) for this app.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshal-lele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-lele" height="30" width="40" /></a>
