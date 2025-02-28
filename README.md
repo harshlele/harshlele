@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Harshal!</h2>
 
-- 🔭 I’m currently an MCS student and a Teaching Assistant at the University of Iowa
+- 🔭 I’m currently an MCS student at the University of Iowa
 
 - 📫 Reach me at: **harshal-lele@uiowa.edu**
 
